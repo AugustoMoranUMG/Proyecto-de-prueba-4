@@ -21,5 +21,16 @@ namespace Proyecto_de_prueba_4
         {
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        public void mtdfechahoy()
+        {
+
+            Console.WriteLine("Hola mundo");
+        }
     }
 }
