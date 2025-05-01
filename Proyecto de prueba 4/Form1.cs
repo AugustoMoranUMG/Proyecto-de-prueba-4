@@ -47,6 +47,11 @@ namespace Proyecto_de_prueba_4
             Console.WriteLine("Cambio Augusto");
         }
 
+        public void mtdPruebaMetodoAugusto()
+        {
+            Console.WriteLine("Agregué un nuevo método");
+        }
+
 
     }
 }
