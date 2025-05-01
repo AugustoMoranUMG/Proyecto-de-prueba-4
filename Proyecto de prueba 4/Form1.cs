@@ -16,5 +16,10 @@ namespace Proyecto_de_prueba_4
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
