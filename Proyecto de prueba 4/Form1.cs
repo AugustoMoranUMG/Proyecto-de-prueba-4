@@ -32,6 +32,13 @@ namespace Proyecto_de_prueba_4
             Console.WriteLine("Cambie de línea el mtdfechahoy");
         }
 
+        public void MtdPrueba2()
+        {
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+        }
 
         public void mtdfechahoy()
         {
