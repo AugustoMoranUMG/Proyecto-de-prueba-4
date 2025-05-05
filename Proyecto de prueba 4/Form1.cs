@@ -15,6 +15,12 @@ namespace Proyecto_de_prueba_4
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -29,6 +35,14 @@ namespace Proyecto_de_prueba_4
 
         public void MtdPrueba1()
         {
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
             Console.WriteLine("Cambie de línea el mtdfechahoy");
         }
 
@@ -50,6 +64,9 @@ namespace Proyecto_de_prueba_4
         public void mtdPruebaMetodoAugusto()
         {
             Console.WriteLine("Agregué un nuevo método");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
+            Console.WriteLine("Cambie de línea el mtdfechahoy");
         }
 
 
