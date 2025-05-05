@@ -53,6 +53,9 @@ namespace Proyecto_de_prueba_4
             Console.WriteLine("Agregué un nuevo método");
         }
 
+        private void button5_Click(object sender, EventArgs e)
+        {
 
+        }
     }
 }
