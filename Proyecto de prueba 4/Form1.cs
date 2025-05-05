@@ -38,6 +38,9 @@ namespace Proyecto_de_prueba_4
             Console.WriteLine("Cambie de línea el mtdfechahoy");
             Console.WriteLine("Cambie de línea el mtdfechahoy");
             Console.WriteLine("Cambie de línea el mtdfechahoy");
+
+
+            Console.WriteLine("Cambio Augusto 04/05/2025");
         }
 
         public void mtdfechahoy()
