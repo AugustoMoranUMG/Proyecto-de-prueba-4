@@ -52,6 +52,9 @@ namespace Proyecto_de_prueba_4
             Console.WriteLine("Cambie de línea el mtdfechahoy");
             Console.WriteLine("Cambie de línea el mtdfechahoy");
             Console.WriteLine("Cambie de línea el mtdfechahoy");
+
+
+            Console.WriteLine("Cambio Augusto 04/05/2025");
         }
 
         public void mtdfechahoy()
@@ -59,6 +62,7 @@ namespace Proyecto_de_prueba_4
 
             Console.WriteLine("Hola mundo");
             Console.WriteLine("Cambio Augusto");
+            Console.WriteLine("Cambio Fernando");
         }
 
         public void mtdPruebaMetodoAugusto()
@@ -69,6 +73,9 @@ namespace Proyecto_de_prueba_4
             Console.WriteLine("Cambie de línea el mtdfechahoy");
         }
 
+        private void button5_Click(object sender, EventArgs e)
+        {
 
+        }
     }
 }
